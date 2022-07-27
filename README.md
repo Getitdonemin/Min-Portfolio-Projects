@@ -47,3 +47,4 @@ The following animation shows the web application's appearance and functionality
 
 # Link to deployed application
 https://github.com/Getitdonemin/Min-Portfolio-Projects
+https://getitdonemin.github.io/Min-Portfolio-Projects/
