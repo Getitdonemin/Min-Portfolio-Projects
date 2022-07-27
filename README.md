@@ -45,10 +45,5 @@ The following animation shows the web application's appearance and functionality
 
 ![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/107437104/181152179-725a077e-d5b3-4e2f-8db0-0abfeec71820.gif)
 
-
-# Technologies used
-HTML
-CSS
-
 # Link to deployed application
 https://github.com/Getitdonemin/Min-Portfolio-Projects
