@@ -29,9 +29,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 # Mock-Up
 The following animation shows the web application's appearance and functionality:
 
-<div>
-    <img src="./assets/images/02-advanced-css-homework-demo-1.gif" width="400px"/> 
-</div>
+![image](https://user-images.githubusercontent.com/107437104/181142435-23b203a7-6d06-422d-9b33-71261866f735.png)
 
 # Technologies used
 HTML
