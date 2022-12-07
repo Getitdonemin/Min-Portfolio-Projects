@@ -62,6 +62,7 @@ p {
 .profile-pic {
     position: relative;
     margin: 12px;
+    width: 500 px
 }
 section {
     display: flex;
